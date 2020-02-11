@@ -6,6 +6,8 @@ Uses Tcmalloc
 
 ### How to Compile
 
+make all
+
 ### Run
 - ./server [random server name] [addr to file] [port]
 - ./client1 ip port numthread numreq queryword

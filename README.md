@@ -9,9 +9,9 @@ Uses Tcmalloc
 > make all
 
 ### Run
-- ./server [random server name] [addr to file] [port]
-- ./client1 ip port numthread numreq queryword
-- ./client2 ip port // >search word
+> ./server [random server name] [addr to file] [port]
+> ./client1 ip port numthread numreq queryword
+> ./client2 ip port // >search word
 
 ## Code Explanation
 ### server.c
